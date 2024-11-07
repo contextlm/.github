@@ -4,13 +4,13 @@
 
 At **ContextLM**, we are dedicated to creating AI-driven solutions that transform the way developers interact with their code. Our mission is to simplify development workflows by integrating advanced AI technologies directly into the tools developers use every day.
 
-## 🌟 Our Vision
+## Our Vision
 
 - **Empower Developers**: Boost productivity with intelligent, context-aware assistance.
 - **Innovate with AI**: Leverage cutting-edge AI to solve real-world coding challenges.
 - **Promote Flexibility**: Build IDE-agnostic tools that adapt to any development environment.
 
-## 🛠️ Our Projects
+## Our Projects
 
 ### [ContextLM Desktop App](#)
 
